@@ -1,0 +1,9 @@
+#helloworld {
+	width: 260px;
+	height: 180px;
+	border: black solid 1px;
+} 
+
+body {
+	background-color:lightgray
+}
