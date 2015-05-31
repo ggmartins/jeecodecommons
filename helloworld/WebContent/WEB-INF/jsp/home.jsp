@@ -1,3 +1,3 @@
-<div id="core1">
+<div id="home">
   <img id="helloworld" src="images/helloworld.png" /> 
 </div>
