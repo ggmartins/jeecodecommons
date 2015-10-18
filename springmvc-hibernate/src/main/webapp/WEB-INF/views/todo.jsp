@@ -9,7 +9,7 @@
 <title>View1</title>
 </head>
 <body>
-    <p>View1 : ${message}</p><br>    
+    <p>Todo : ${message}</p><br>    
     <img src="${pageContext.request.contextPath}/res/images/image1.png" /><br>
     <a  href="${pageContext.request.contextPath}/">Main</a><br>
     <a  href="${pageContext.request.contextPath}/webapp/">WebApp</a><br><br>
